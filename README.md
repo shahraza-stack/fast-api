@@ -1,4 +1,4 @@
-FastAPI Prediction Service with Redis
+**FastAPI Prediction Service with Redis**
 
 This project implements a prediction service using FastAPI for asynchronous predictions and Redis for storing the prediction results. The service allows users to submit prediction requests and retrieve the results asynchronously.
 Approach
