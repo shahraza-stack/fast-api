@@ -17,8 +17,9 @@ Follow these steps to build and run the containers using Docker Compose.
 1. Navigate to the Project Directory
 
 Open your terminal and change to the project directory:
+//
 
-    cd Sych/sych-assesment
+    cd fast-api
 
 2. Build and Start the Containers
 
